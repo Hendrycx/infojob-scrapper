@@ -1,4 +1,3 @@
-# infojob-scrapper
 
 # InfoJobs Scraper
 
